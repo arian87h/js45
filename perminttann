@@ -1,0 +1,3 @@
+git remote tambahkan asal https://github.com/arian87h/js45.git
+ git Branch -M main 
+git Push -u origin main
